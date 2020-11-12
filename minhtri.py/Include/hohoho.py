@@ -10,4 +10,4 @@ print('phần tử đầu tiên của x',x[0])
 # 8.in các giá trị của phần tử đầu tiên đến phần tử thứ 5 của x
 print(x[0:5])
 # 9.in các giá trị của phần tử thứ 3 đến phần tử cuối cùng của x
-print(x[3:len(x)])
+print(x[2:len(x)])
